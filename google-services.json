@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "801732211807",
+    "project_id": "filmmatedb",
+    "storage_bucket": "filmmatedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801732211807:android:808f121946be3e66f657ea",
+        "android_client_info": {
+          "package_name": "com.example.filmmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801732211807-s4bkovqfufbl58tv4k5b8eek74cu44e0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.filmmate",
+            "certificate_hash": "953ee6db33e9b59d7647ba6718cc29ce973e4ec2"
+          }
+        },
+        {
+          "client_id": "801732211807-jkru5aecj12hbm9uamlm16kfh8jj80le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPQyPAHpt1gWV6rty-ODYLIKhkcnjk4Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801732211807-jkru5aecj12hbm9uamlm16kfh8jj80le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
